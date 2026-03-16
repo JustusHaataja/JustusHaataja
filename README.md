@@ -1,19 +1,19 @@
 # Hi, I’m Justus Haataja 👋
 
-I’m a **software engineering student** focused on **full-stack web development**.
+I’m a **software engineering student** focused on **full-stack development**.
 
 My goal is simple: **write maintainable software that solves real problems** and keep improving with every project.
 
-[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://justushaataja.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://justushaataja.netlify.app/)
 
 ---
 
 ## 🧩 Full-Stack Development
-I design and implement complete web applications, from UI to database.
+I design and implement complete full-stack applications, from database schemas to UI.
 
 **My stack:**
 - Frontend: React, TypeScript, HTML, CSS
-- Backend: Python (FastAPI), REST APIs
+- Backend: Python, Node,js, REST APIs
 - Databases: SQL/PostgreSQL
 - Tooling: Docker, Git, Vite, modern build tools
 
@@ -37,4 +37,4 @@ Connect with me on LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justushaataja/)
 
 
-✨ *"Turning data into insights, code into experiences, and AI into real-world solutions."*
+✨ *“AI-fluent. Full-stack by trade. Problem-solver by default.”*
