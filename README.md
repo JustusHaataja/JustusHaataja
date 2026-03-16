@@ -2,21 +2,6 @@
 
 I’m a **software engineering student** focused on **full-stack development**.
 
-My goal is simple: **write maintainable software that solves real problems** and keep improving with every project.
-
-[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://justushaataja.netlify.app/)
-
----
-
-## 🧩 Full-Stack Development
-I design and implement complete full-stack applications, from database schemas to UI.
-
-**My stack:**
-- Frontend: React, TypeScript, HTML, CSS
-- Backend: Python, Node,js, REST APIs
-- Databases: SQL/PostgreSQL
-- Tooling: Docker, Git, Vite, modern build tools
-
 ---
 
 ## ⚙️ Tools & Technologies
@@ -30,8 +15,7 @@ I design and implement complete full-stack applications, from database schemas t
 
 ---
 
-## 💼 Contact & Opportunities
-I’m interested in **junior developer roles, and collaborative projects** where I can grow as a full-stack developer and contribute meaningfully.
+## 💼 Contact
 
 Connect with me on LinkedIn:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justushaataja/)
