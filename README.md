@@ -12,7 +12,8 @@ I’m a **software engineering student** focused on **full-stack development**.
 
 ## 💼 Contact
 
-Connect with me on LinkedIn:  
+**Connect with me on LinkedIn:**
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/justushaataja/)
 
 
