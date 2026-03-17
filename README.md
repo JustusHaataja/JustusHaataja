@@ -13,7 +13,7 @@ I’m a **software engineering student** focused on **full-stack development**.
 ## 💼 Contact
 
 Connect with me on LinkedIn:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justushaataja/)
+[![LinkedIn](https://skillicons.dev/icons?i=js,html,css,wasm)](https://www.linkedin.com/in/justushaataja/)
 
 
 
