@@ -6,7 +6,7 @@ I’m a **software engineering student** focused on **full-stack development**.
 
 
 ## ⚙️ Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,postgres,ts,react,nodejs,express,html,css,nextjs,github,netlify,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,express,html,css,nextjs,py,fastapi,postgres,github,netlify,supabase)](https://skillicons.dev)
 
 
 
